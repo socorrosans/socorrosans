@@ -6,7 +6,7 @@ Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de u
 
 Possuo uma graduação na Universidade Federal do Piauí, em Nutrição e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
 
-Você pode entrar em contato comigo através do LinkedIn. Faça uma conexão 🥰.
+Vou adorar se você entrar em contato comigo através do LinkedIn. Faça uma conexão 🥰.
 
 [![Linkedin: socorrosans](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/socorrosans/)](https://www.linkedin.com/in/socorrosans/)
 
@@ -14,7 +14,7 @@ ____
 
  ## 💻 Tecnologias 
 
- Algumas tecnologias e ferramentas que eu possuo conhecimentos e habilidades: 
+ Algumas das tecnologias e ferramentas em que possuo conhecimentos e habilidades: 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
