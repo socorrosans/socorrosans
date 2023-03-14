@@ -6,7 +6,7 @@ Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de u
 
 Possuo uma graduação na Universidade Federal do Piauí, em Nutrição e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
 
-Você entrar em contato comigo através do LinkedIn. Faça uma conexão 🥰.
+Você pode entrar em contato comigo através do LinkedIn. Faça uma conexão 🥰.
 
 [![Linkedin: socorrosans](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/socorrosans/)](https://www.linkedin.com/in/socorrosans/)
 
