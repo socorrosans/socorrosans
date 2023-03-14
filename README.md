@@ -1,4 +1,4 @@
-### Olá, bem-vindo(a)! 👩‍🚀🚀
+## Olá, bem-vindo(a)! 👩‍🚀🚀
 
 Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, e atualmente dedico meus estudos ao Desenvolvimento Front End. 
 
@@ -12,7 +12,7 @@ Vou adorar se você entrar em contato comigo através do LinkedIn. Faça uma con
 
 ____
 
- ## 💻 Tecnologias 
+ ### 💻 Tecnologias 
 
  Algumas das tecnologias e ferramentas em que possuo conhecimentos e habilidades: 
 
