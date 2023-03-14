@@ -1,10 +1,12 @@
-### Olá! 👩‍🚀🚀
+### Olá, bem-vindo(a)! 👩‍🚀🚀
 
-Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, porém atualmente dedico meus estudos ao Desenvolvimento Front End. 
+Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, e atualmente dedico meus estudos ao Desenvolvimento Front End. 
 
-Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de um bootcamp também em desenvolvimento full stack, onde pude participar de atividades e projetos em grupo.
+Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de um bootcamp, também em desenvolvimento full stack, no qual pude participar de atividades e projetos em grupo.
 
-Possuo também uma graduação na Universidade Federal do Piauí, na área de Nutrição e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
+Possuo uma graduação na Universidade Federal do Piauí, em Nutrição e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
+
+Você entrar em contato comigo através do LinkedIn. Faça uma conexão 🥰.
 
 [![Linkedin: socorrosans](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/socorrosans/)](https://www.linkedin.com/in/socorrosans/)
 
