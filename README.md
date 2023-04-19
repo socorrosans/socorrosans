@@ -1,8 +1,8 @@
 ## Olá, bem-vindo(a)! 👩‍🚀🚀
 
-Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, e atualmente dedico meus estudos ao Desenvolvimento Front End. 
+Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, e atualmente trabalho como desenvolvedora front end na Ubuntu GenTech. 
 
-Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de um bootcamp, também em desenvolvimento full stack, no qual pude participar de atividades e projetos em grupo.
+Já desenvolvi alguns projetos pessoais como objetos de estudo e participei de um bootcamp, também em desenvolvimento full stack, no qual pude participar de atividades e projetos em grupo, e no meu trabalho atual, sou responsável pela criação de páginas utilizando HTML5, CSS3, Javascript.  
 
 Possuo uma graduação na Universidade Federal do Piauí, em Nutrição e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
 
