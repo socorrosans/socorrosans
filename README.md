@@ -2,7 +2,7 @@
 
 Sou pós graduanda em Desenvolvimento Full Stack na PUC Minas, e atualmente trabalho como Desenvolvedora Front End na Ubuntu GenTech. Já desenvolvi projetos pessoais como objetos de estudo e participei de um bootcamp, também em desenvolvimento full stack, no qual pude participar de atividades/projetos em grupo. 
 
-No meu trabalho atual, sou responsável pelo desenvolvimento de páginas utilizando principalmente HTML5, CSS3, Tailwind, Laravel e Javascript. 
+No meu trabalho atual, sou responsável pelo desenvolvimento de páginas utilizando principalmente HTML5, CSS3, TailwindCSS, Laravel e Javascript. 
 
 Além disso, possuo uma graduação em Nutrição pela Universidade Federal do Piauí, e apesar de ter optado por não seguir na área, foi uma etapa importante para o meu desenvolvimento e crescimento pessoal.
 
